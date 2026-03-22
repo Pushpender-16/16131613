@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Piyush Shekhawat
 
-🚀 Passionate Developer | 💻 Full-Stack Enthusiast | 🎨 Creative UI Designer  
+🚀Full-Stack Developer 
 
 ---
 
@@ -44,12 +44,12 @@ React ███████████░░░░░░ 80%
 
 ⚙️ Backend
 
-Node.js █████████░░░░░░░░ 60%
+Node.js █████████░░░░░░░░ 80%
 Firebase ███████████░░░░░░ 70%
 
 🛠 Tools
 
-Git ███████████░░░░░░ 70%
+Git ███████████░░░░░░ 80%
 
 ---
 
