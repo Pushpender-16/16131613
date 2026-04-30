@@ -25,6 +25,7 @@
 - 💬 Website clone 
 - 🌐 Personal Portfolio with animations & effects
 - 📚 Library Management System (MVP)
+- Youtube Search
 
 ---
 
@@ -51,7 +52,8 @@ Firebase ███████████░░░░░░ 70%
 
 🛠 Tools
 
-Git ███████████░░░░░░ 80%
+Git ███████████░░░░░░ 70%
+GitHub ███████████░░░░░░ 70%
 
 ---
 
